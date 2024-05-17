@@ -6,7 +6,7 @@ This work is submitted to Knowledge-Based Systems.
 
 
 ## CAOF-Blend Overview:
-![image](https://github.com/mqwfrog/CAOF-Blend/overview.png)
+![image](https://github.com/mqwfrog/CAOF-Blend/blob/main/overview.png)
 
   
 ## Abstract
